@@ -2,7 +2,7 @@
 
 # proseLM
 
-Official repository for [proseLM](https://www.biorxiv.org/content/10.1101/2024.08.03.606485v1), a protein language model for structure- and function-conditioned sequence generation.
+Official repository for [proseLM](https://www.biorxiv.org/content/10.1101/2024.08.03.606485v1), a protein language model for structure-conditioned sequence generation.
 
 
 ## Citing this work
